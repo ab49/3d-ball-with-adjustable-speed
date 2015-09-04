@@ -1,0 +1,25 @@
+{
+  "convertHtml": {
+    "relativePaths": false
+  },
+  "debug": false,
+  "domain": null,
+  "lintScripts": false,
+  "modelSource": null,
+  "preprocessorLocations": [
+    "public"
+  ],
+  "preprocessorScriptOutput": "public/scripts",
+  "preprocessorStyleOutput": "public/styles",
+  "projectDescription": "Quick start Compass with Mixture, Compass is an open-source CSS Authoring Framework.",
+  "projectName": "css",
+  "publishedId": null,
+  "serverHostname": null,
+  "serverPort": null,
+  "simpleModePartnerServer": null,
+  "templateDefaultLayout": "layout",
+  "templateDefaultPage": "index",
+  "templateDirectory": "templates",
+  "type": "mixture",
+  "useCompass": true
+}
